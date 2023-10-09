@@ -11,8 +11,8 @@ I'm a Bioinformatics student based in UTM. I'm passionate about Cooding.
 
 ## Projects
 
-- [Project 1 CliniCare
-- [Project 2 PFB
+- Project 1 CliniCare
+- Project 2 PFB
 
 
 ## Contact Me
